@@ -1,0 +1,21 @@
+Username and password
+
+
+        "username": "Ramesh123",
+        "password": "Prakas123",
+
+
+default port: 5000
+
+
+api's:
+
+/child   - bot get and post to create a new child and get all the children
+/child/id  - get a specific child
+/district   - both get and post to create a new district and get all the districts
+/district/id  - get a specific district
+/state   - both get and post to create a state and get all the states
+/state/id  - get a specific state
+/user/signup  - post to create a new user
+/user/login  - post to login
+/user/logout - get to logout
